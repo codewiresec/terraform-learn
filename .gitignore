@@ -8,5 +8,5 @@
 # tf variable files, may include senstive data
 *.tfvars
 
-# ssh-keys, very sensitive information
+# ssh-keys, includes sensitive information
 *id_rsa*
